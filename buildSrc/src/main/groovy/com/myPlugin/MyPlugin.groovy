@@ -6,8 +6,7 @@ import org.gradle.api.Project
 public class MyPlugin implements Plugin<Project> {
     @Override
     void apply(Project project) {
-        project.task('testPlugin') << {
-            println 'hello, world!'
-        }
+        println("hello world")
+        println("this is a  test")
     }
 }

@@ -31,20 +31,6 @@ dependencies {
 }
 
 
-class HelloPlugin implements Plugin<Project>{
-    @Override
-    void apply(Project project) {
-        project.task('MytestPlugin') << {
-            println 'hello, world!'
-        }
-    }
-}
-apply plugin: HelloPlugin
-
-
-
-
-
 
 
 
