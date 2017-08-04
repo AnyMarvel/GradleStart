@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/GradleStart.iml" filepath="$PROJECT_DIR$/GradleStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myGradlePlugin/myGradlePlugin.iml" filepath="$PROJECT_DIR$/myGradlePlugin/myGradlePlugin.iml" />
     </modules>
   </component>
 </project>

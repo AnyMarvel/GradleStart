@@ -1,1 +1,1 @@
-include ':app', ':buildSrc', ':myGradlePlugin'
+include ':app', ':buildSrc'
